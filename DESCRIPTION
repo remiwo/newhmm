@@ -1,0 +1,11 @@
+Package: hmm
+Title: Hydrophobic moment tools for proteins
+Version: 0.0.0.9000
+Authors@R: person("Remigiusz", "Worch", email = "remi.worch@gmail.com", role = c("aut", "cre"))
+Description: Tools for analyzing peptide sequences in a form of hydrophobic moment map.
+    A possible relationship between peptide sequence and its structure that is reflected on a hydrophobic moment map for the case of influenza fusion peptide has been described by the author in Worch R. FEBS J (2013), 18, 2980-2983.
+Depends: R (>= 3.4.2)
+License: FOSS
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
